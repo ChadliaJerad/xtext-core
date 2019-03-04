@@ -7,8 +7,8 @@
  *******************************************************************************/
 package org.eclipse.xtext.ide.tests.server
 
-import org.junit.Test
 import org.eclipse.lsp4j.CompletionItem
+import org.junit.Test
 
 /**
  * @author kosyakov - Initial contribution and API
