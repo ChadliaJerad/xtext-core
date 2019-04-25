@@ -17,8 +17,8 @@
 		<module>org.eclipse.xtext.testing</module>
 		<module>org.eclipse.xtext.testlanguages</module>
 		<module>org.eclipse.xtext.testlanguages.ide</module>
-		<module>org.eclipse.xtext.tests</module>
-		<module>org.eclipse.xtext.ide.tests</module>
+<!-- 		<module>org.eclipse.xtext.tests</module>
+		<module>org.eclipse.xtext.ide.tests</module> -->
 		<!-- TODO include in build, but clearify how to do it right -->
 		<!-- <module>org.eclipse.xtext.xtext.bootstrap</module> -->
 	</modules>
